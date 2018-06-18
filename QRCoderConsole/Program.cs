@@ -13,7 +13,7 @@ namespace QRCoderConsole
     class MainClass
     {
         public static void Main (string[] args)
-        {//InitialCommit
+        {//InitialCommit2
             var friendlyName = AppDomain.CurrentDomain.FriendlyName;
             var newLine = Environment.NewLine;
             var setter = new OptionSetter ();
